@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 77b54b115fea07744888efcef785c26b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3815934430864397854
+    second: Drifting Car_0
+  - first:
+      213: 1818969108090360381
+    second: Drifting Car_1
+  - first:
+      213: 2706847967612311180
+    second: Drifting Car_2
+  - first:
+      213: 4293714199180197359
+    second: Drifting Car_3
+  - first:
+      213: 5981732839778154435
+    second: Drifting Car_4
+  - first:
+      213: 8525307290889933842
+    second: Drifting Car_5
+  - first:
+      213: 2512851490985738715
+    second: Drifting Car_6
+  - first:
+      213: 2468771976050679702
+    second: Drifting Car_7
+  - first:
+      213: -6726296389618335635
+    second: Drifting Car_8
+  - first:
+      213: -2591872935980285346
+    second: Drifting Car_9
+  - first:
+      213: 5067124308885361065
+    second: Drifting Car_10
+  - first:
+      213: 7155734017896191567
+    second: Drifting Car_11
+  - first:
+      213: -83703629412262814
+    second: Drifting Car_12
+  - first:
+      213: 1838934911102716196
+    second: Drifting Car_13
+  - first:
+      213: 1310177679016075698
+    second: Drifting Car_14
+  - first:
+      213: 5647500655600906693
+    second: Drifting Car_15
+  - first:
+      213: -5442505094230516944
+    second: Drifting Car_16
+  - first:
+      213: 1361902414606375293
+    second: Drifting Car_17
+  - first:
+      213: -1342497861744356444
+    second: Drifting Car_18
+  - first:
+      213: -5396465715612492040
+    second: Drifting Car_19
+  - first:
+      213: 6581183681937839497
+    second: Drifting Car_20
+  - first:
+      213: 7958500462549530566
+    second: Drifting Car_21
+  - first:
+      213: -3629998654529384205
+    second: Drifting Car_22
+  - first:
+      213: -1694210566113644695
+    second: Drifting Car_23
+  - first:
+      213: 6698310782906314988
+    second: Drifting Car_24
+  - first:
+      213: 5517877390699710742
+    second: Drifting Car_25
+  - first:
+      213: 6856873027166910752
+    second: Drifting Car_26
+  - first:
+      213: -3936628156980222167
+    second: Drifting Car_27
+  - first:
+      213: -2158758532925678585
+    second: Drifting Car_28
+  - first:
+      213: -3635649801453859886
+    second: Drifting Car_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drifting Car_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 39
+        width: 704
+        height: 1005
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16dadda52ce4f430800000000000000
+      internalID: 3815934430864397854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_1
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 520
+        width: 242
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32922934c64e3910800000000000000
+      internalID: 1818969108090360381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_2
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 497
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86158292e7a09520800000000000000
+      internalID: 2706847967612311180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_3
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 487
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedbf29a056569b30800000000000000
+      internalID: 4293714199180197359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_4
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 477
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7f3404352630350800000000000000
+      internalID: 5981732839778154435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_5
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 467
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214da82efc9ff4670800000000000000
+      internalID: 8525307290889933842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_6
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 210
+        width: 305
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1048d0e117fd220800000000000000
+      internalID: 2512851490985738715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_7
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 458
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f90f73807d24220800000000000000
+      internalID: 2468771976050679702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_8
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 450
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d608ec2321567a2a0800000000000000
+      internalID: -6726296389618335635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_9
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 347
+        width: 70
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5242fb0c41d70cd0800000000000000
+      internalID: -2591872935980285346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_10
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 340
+        width: 71
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1dbdf46ba025640800000000000000
+      internalID: 5067124308885361065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_11
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 206
+        width: 77
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4691e33d264e4360800000000000000
+      internalID: 7155734017896191567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_12
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 195
+        width: 78
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c98761eff96def0800000000000000
+      internalID: -83703629412262814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_13
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 199
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429875dfe85358910800000000000000
+      internalID: 1838934911102716196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_14
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 186
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1266e48afae2210800000000000000
+      internalID: 1310177679016075698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_15
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 176
+        width: 78
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1b0edace3ff5e40800000000000000
+      internalID: 5647500655600906693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_16
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 190
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bd222d3765874b0800000000000000
+      internalID: -5442505094230516944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_17
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 180
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d791c59c70376e210800000000000000
+      internalID: 1361902414606375293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_18
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 161
+        width: 77
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3910fbe4d7e5de0800000000000000
+      internalID: -1342497861744356444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_19
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 154
+        width: 75
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fed75af507eb15b0800000000000000
+      internalID: -5396465715612492040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_20
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 169
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985908ba0bf055b50800000000000000
+      internalID: 6581183681937839497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_21
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 34
+        width: 136
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7fb073106427e60800000000000000
+      internalID: 7958500462549530566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_22
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 145
+        width: 75
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f051adc477af9dc0800000000000000
+      internalID: -3629998654529384205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_23
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 159
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f25186774fc78e0800000000000000
+      internalID: -1694210566113644695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_24
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 135
+        width: 73
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0bc4afa2e25fc50800000000000000
+      internalID: 6698310782906314988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_25
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 149
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619c0da7040739c40800000000000000
+      internalID: 5517877390699710742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_26
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 126
+        width: 71
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029bd3e50b1882f50800000000000000
+      internalID: 6856873027166910752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_27
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 116
+        width: 63
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927a4626c894e59c0800000000000000
+      internalID: -3936628156980222167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_28
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 106
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c1f194d8c8a02e0800000000000000
+      internalID: -2158758532925678585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drifting Car_29
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 44
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db8f90a4c39b8dc0800000000000000
+      internalID: -3635649801453859886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Drifting Car_0: 3815934430864397854
+      Drifting Car_1: 1818969108090360381
+      Drifting Car_10: 5067124308885361065
+      Drifting Car_11: 7155734017896191567
+      Drifting Car_12: -83703629412262814
+      Drifting Car_13: 1838934911102716196
+      Drifting Car_14: 1310177679016075698
+      Drifting Car_15: 5647500655600906693
+      Drifting Car_16: -5442505094230516944
+      Drifting Car_17: 1361902414606375293
+      Drifting Car_18: -1342497861744356444
+      Drifting Car_19: -5396465715612492040
+      Drifting Car_2: 2706847967612311180
+      Drifting Car_20: 6581183681937839497
+      Drifting Car_21: 7958500462549530566
+      Drifting Car_22: -3629998654529384205
+      Drifting Car_23: -1694210566113644695
+      Drifting Car_24: 6698310782906314988
+      Drifting Car_25: 5517877390699710742
+      Drifting Car_26: 6856873027166910752
+      Drifting Car_27: -3936628156980222167
+      Drifting Car_28: -2158758532925678585
+      Drifting Car_29: -3635649801453859886
+      Drifting Car_3: 4293714199180197359
+      Drifting Car_4: 5981732839778154435
+      Drifting Car_5: 8525307290889933842
+      Drifting Car_6: 2512851490985738715
+      Drifting Car_7: 2468771976050679702
+      Drifting Car_8: -6726296389618335635
+      Drifting Car_9: -2591872935980285346
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

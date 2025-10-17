@@ -1,0 +1,1417 @@
+fileFormatVersion: 2
+guid: 28df2bf24afc5f44983ef18d179480da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8206240525278474619
+    second: Car Driving_0
+  - first:
+      213: 790872386552762789
+    second: Car Driving_1
+  - first:
+      213: 3509589479050544970
+    second: Car Driving_2
+  - first:
+      213: -5650186441473304620
+    second: Car Driving_3
+  - first:
+      213: -7063129768597386178
+    second: Car Driving_4
+  - first:
+      213: -2003004733609465461
+    second: Car Driving_5
+  - first:
+      213: 6788223913587651931
+    second: Car Driving_6
+  - first:
+      213: 6999740180480697538
+    second: Car Driving_7
+  - first:
+      213: -5404946233049130734
+    second: Car Driving_8
+  - first:
+      213: -5526472712028236909
+    second: Car Driving_9
+  - first:
+      213: 8406943112963837711
+    second: Car Driving_10
+  - first:
+      213: -2428867177438701270
+    second: Car Driving_11
+  - first:
+      213: -2371448819543962524
+    second: Car Driving_12
+  - first:
+      213: -6367690754267789600
+    second: Car Driving_13
+  - first:
+      213: 7012135427234835007
+    second: Car Driving_14
+  - first:
+      213: -8427238819592602597
+    second: Car Driving_15
+  - first:
+      213: 1607978058923446622
+    second: Car Driving_16
+  - first:
+      213: 12455651199795062
+    second: Car Driving_17
+  - first:
+      213: -5478944804417625499
+    second: Car Driving_18
+  - first:
+      213: 5527125294189054064
+    second: Car Driving_19
+  - first:
+      213: -7571089547767004976
+    second: Car Driving_20
+  - first:
+      213: -5636418506840669951
+    second: Car Driving_21
+  - first:
+      213: -8637764270638765675
+    second: Car Driving_22
+  - first:
+      213: 3350271557662375427
+    second: Car Driving_23
+  - first:
+      213: -8025270038464409774
+    second: Car Driving_24
+  - first:
+      213: -2575217773079883605
+    second: Car Driving_25
+  - first:
+      213: 8084435117596866355
+    second: Car Driving_26
+  - first:
+      213: 5282406147107614977
+    second: Car Driving_27
+  - first:
+      213: -8045044233128257339
+    second: Car Driving_28
+  - first:
+      213: 4666703383515514453
+    second: Car Driving_29
+  - first:
+      213: 8032327485182508647
+    second: Car Driving_30
+  - first:
+      213: 7499378793686429430
+    second: Car Driving_31
+  - first:
+      213: 4418306919704778151
+    second: Car Driving_32
+  - first:
+      213: 1554268517499561329
+    second: Car Driving_33
+  - first:
+      213: -8658895477704278656
+    second: Car Driving_34
+  - first:
+      213: 7753532428726441220
+    second: Car Driving_35
+  - first:
+      213: 4299458709517131938
+    second: Car Driving_36
+  - first:
+      213: 4194457184497992375
+    second: Car Driving_37
+  - first:
+      213: 2232016318708687516
+    second: Car Driving_38
+  - first:
+      213: -4167806843350339287
+    second: Car Driving_39
+  - first:
+      213: 7215938020574502569
+    second: Car Driving_40
+  - first:
+      213: 4981892121310808274
+    second: Car Driving_41
+  - first:
+      213: -4559990247391193129
+    second: Car Driving_42
+  - first:
+      213: -7001203532745513792
+    second: Car Driving_43
+  - first:
+      213: 5133641541809367675
+    second: Car Driving_44
+  - first:
+      213: -4862893754562120855
+    second: Car Driving_45
+  - first:
+      213: -4009037081993165063
+    second: Car Driving_46
+  - first:
+      213: 8081053490476506655
+    second: Car Driving_47
+  - first:
+      213: 7342029059494843280
+    second: Car Driving_48
+  - first:
+      213: 1415274574051671618
+    second: Car Driving_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Car Driving_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 522
+        width: 484
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e8c5588b39d1e80800000000000000
+      internalID: -8206240525278474619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 355
+        width: 185
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1942fce3eb9fa00800000000000000
+      internalID: 790872386552762789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 516
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47814e590194b030800000000000000
+      internalID: 3509589479050544970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 497
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d751411e518691b0800000000000000
+      internalID: -5650186441473304620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_4
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 126
+        width: 315
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c0444c5e8bafd90800000000000000
+      internalID: -7063129768597386178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 446
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8928c1aec5e334e0800000000000000
+      internalID: -2003004733609465461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_6
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 440
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5534311fad943e50800000000000000
+      internalID: 6788223913587651931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 434
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4a491ab92142160800000000000000
+      internalID: 6999740180480697538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 474
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2195505a906cdf4b0800000000000000
+      internalID: -5404946233049130734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_9
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 466
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393daa259560e43b0800000000000000
+      internalID: -5526472712028236909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_10
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 458
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f402728367ba470800000000000000
+      internalID: 8406943112963837711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_11
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 451
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29192abb2eea4ed0800000000000000
+      internalID: -2428867177438701270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_12
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 444
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c0014fcdbe61fd0800000000000000
+      internalID: -2371448819543962524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 428
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e644581ffa61a7a0800000000000000
+      internalID: -6367690754267789600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 212
+        width: 227
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aa349e40c105160800000000000000
+      internalID: 7012135427234835007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_15
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 435
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cfcc861fe6c0b80800000000000000
+      internalID: -8427238819592602597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_16
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 428
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5111c0768fa05610800000000000000
+      internalID: 1607978058923446622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_17
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 420
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fb53949504c2000800000000000000
+      internalID: 12455651199795062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_18
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 376
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56227b4aab0e6f3b0800000000000000
+      internalID: -5478944804417625499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_19
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 366
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078073dcb2b44bc40800000000000000
+      internalID: 5527125294189054064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_20
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 284
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0ccae6b261ee690800000000000000
+      internalID: -7571089547767004976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_21
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 276
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10103562b3b67c1b0800000000000000
+      internalID: -5636418506840669951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_22
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 267
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599e303292f702880800000000000000
+      internalID: -8637764270638765675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_23
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 259
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e7f8f2b3e8e7e20800000000000000
+      internalID: 3350271557662375427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_24
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 211
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f4eb27b6380a090800000000000000
+      internalID: -8025270038464409774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_25
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 203
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba01d48541df24cd0800000000000000
+      internalID: -2575217773079883605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_26
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 251
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337fd0208eea13070800000000000000
+      internalID: 8084435117596866355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_27
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 243
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10170b54760ee4940800000000000000
+      internalID: 5282406147107614977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_28
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 235
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8d51af4e24a5090800000000000000
+      internalID: -8045044233128257339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_29
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 194
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5564e86800673c040800000000000000
+      internalID: 4666703383515514453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_30
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 189
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ef8e96a4f887f60800000000000000
+      internalID: 8032327485182508647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_31
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 180
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fee6c98745231860800000000000000
+      internalID: 7499378793686429430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_32
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 227
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a557a9fbbaf05d30800000000000000
+      internalID: 4418306919704778151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_33
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 213
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17562275bfed19510800000000000000
+      internalID: 1554268517499561329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_34
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 190
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d3338907c65d780800000000000000
+      internalID: -8658895477704278656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_35
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 183
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40516b8f9a41a9b60800000000000000
+      internalID: 7753532428726441220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_36
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 176
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a06a33baeebaab30800000000000000
+      internalID: 4299458709517131938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_37
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 169
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2869b0694b53a30800000000000000
+      internalID: 4194457184497992375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_38
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 162
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92a1812407b9fe10800000000000000
+      internalID: 2232016318708687516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_39
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 174
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92139a902c9f826c0800000000000000
+      internalID: -4167806843350339287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_40
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 167
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae1495e569242460800000000000000
+      internalID: 7215938020574502569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_41
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 165
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d84c083d7c332540800000000000000
+      internalID: 4981892121310808274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_42
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 160
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d79005a709a7b0c0800000000000000
+      internalID: -4559990247391193129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_43
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 122
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c46e7e1b7ab6de90800000000000000
+      internalID: -7001203532745513792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_44
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 114
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a6cb778cb5e3740800000000000000
+      internalID: 5133641541809367675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_45
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 16
+        width: 189
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963fbda15e7838cb0800000000000000
+      internalID: -4862893754562120855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_46
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 155
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6cd64c30a0d58c0800000000000000
+      internalID: -4009037081993165063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_47
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 158
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e58c6955ba52070800000000000000
+      internalID: 8081053490476506655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_48
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 108
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09319c5a78024e560800000000000000
+      internalID: 7342029059494843280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Car Driving_49
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 101
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24efdf50ab014a310800000000000000
+      internalID: 1415274574051671618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Car Driving_0: -8206240525278474619
+      Car Driving_1: 790872386552762789
+      Car Driving_10: 8406943112963837711
+      Car Driving_11: -2428867177438701270
+      Car Driving_12: -2371448819543962524
+      Car Driving_13: -6367690754267789600
+      Car Driving_14: 7012135427234835007
+      Car Driving_15: -8427238819592602597
+      Car Driving_16: 1607978058923446622
+      Car Driving_17: 12455651199795062
+      Car Driving_18: -5478944804417625499
+      Car Driving_19: 5527125294189054064
+      Car Driving_2: 3509589479050544970
+      Car Driving_20: -7571089547767004976
+      Car Driving_21: -5636418506840669951
+      Car Driving_22: -8637764270638765675
+      Car Driving_23: 3350271557662375427
+      Car Driving_24: -8025270038464409774
+      Car Driving_25: -2575217773079883605
+      Car Driving_26: 8084435117596866355
+      Car Driving_27: 5282406147107614977
+      Car Driving_28: -8045044233128257339
+      Car Driving_29: 4666703383515514453
+      Car Driving_3: -5650186441473304620
+      Car Driving_30: 8032327485182508647
+      Car Driving_31: 7499378793686429430
+      Car Driving_32: 4418306919704778151
+      Car Driving_33: 1554268517499561329
+      Car Driving_34: -8658895477704278656
+      Car Driving_35: 7753532428726441220
+      Car Driving_36: 4299458709517131938
+      Car Driving_37: 4194457184497992375
+      Car Driving_38: 2232016318708687516
+      Car Driving_39: -4167806843350339287
+      Car Driving_4: -7063129768597386178
+      Car Driving_40: 7215938020574502569
+      Car Driving_41: 4981892121310808274
+      Car Driving_42: -4559990247391193129
+      Car Driving_43: -7001203532745513792
+      Car Driving_44: 5133641541809367675
+      Car Driving_45: -4862893754562120855
+      Car Driving_46: -4009037081993165063
+      Car Driving_47: 8081053490476506655
+      Car Driving_48: 7342029059494843280
+      Car Driving_49: 1415274574051671618
+      Car Driving_5: -2003004733609465461
+      Car Driving_6: 6788223913587651931
+      Car Driving_7: 6999740180480697538
+      Car Driving_8: -5404946233049130734
+      Car Driving_9: -5526472712028236909
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
