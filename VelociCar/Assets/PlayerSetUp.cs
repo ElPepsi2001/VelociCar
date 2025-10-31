@@ -8,5 +8,6 @@ public class PlayerSetUp : MonoBehaviour
     {
         RoundManager.instance.players.Add(player);
         RoundManager.instance.playerObjects.Add(playerObject);
+        player.velocities.Add(Vector2.zero);
     }
 }

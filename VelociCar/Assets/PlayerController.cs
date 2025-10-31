@@ -3,7 +3,11 @@ using System.Collections.Generic;
 
 public class PlayerController : MonoBehaviour
 {
+    public bool alive = true;
+
     List<GameObject> options = new List<GameObject>();
+    [HideInInspector]
+    public List<Vector2> velocities = new List<Vector2>();
     public Vector2 currentVelocity = Vector2.zero;
     public Vector2 protoVelocity = Vector2.zero;
     int acceleration = 1;
@@ -74,18 +78,26 @@ public class PlayerController : MonoBehaviour
     {
         transform.position = (Vector2)transform.position + protoVelocity;
         currentVelocity = protoVelocity;
+        velocities.Add(currentVelocity);
         ClearAllOptions();
     }
     public void CheckForInput(RoundManager manager)
     {
-        if(!optionsSpawned)
-            SetUpRound();
-
-        if (Input.GetKeyDown(KeyCode.Mouse0) && option != null)
+        if(alive)
         {
-            ChangeVelocity(option.transform.position);
-            SubmitVelocity();
-            manager.AddToIndex();
+            if (!optionsSpawned)
+                SetUpRound();
+
+            if (Input.GetKeyDown(KeyCode.Mouse0) && option != null)
+            {
+                ChangeVelocity(option.transform.position);
+                SubmitVelocity();
+                manager.AddToIndex();
+            }
+        }
+        else
+        {
+            manager.ReportDeath();
         }
     }
 }

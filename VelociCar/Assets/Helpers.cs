@@ -45,4 +45,36 @@ public static class Helpers
     {
         foreach (Transform child in t) Object.Destroy(child.gameObject); 
     }
+
+    public static float CompareDirection2D(Vector2 a, Vector2 b)
+    {
+        if (a == Vector2.zero || b == Vector2.zero)
+            return 0f;
+
+        Vector2 normA = a.normalized;
+        Vector2 normB = b.normalized;
+
+        float dot = Vector2.Dot(normA, normB);
+        dot = Mathf.Clamp(dot, -1f, 1f);
+
+        float similarity = (dot + 1f) * 0.5f;
+
+        return similarity;
+    }
+
+    public static float CompareDirection(Vector3 a, Vector3 b)
+    {
+        if (a == Vector3.zero || b == Vector3.zero)
+            return 0f;
+
+        Vector3 normA = a.normalized;
+        Vector3 normB = b.normalized;
+
+        float dot = Vector3.Dot(normA, normB);
+        dot = Mathf.Clamp(dot, -1f, 1f);
+
+        float similarity = (dot + 1f) * 0.5f;
+
+        return similarity;
+    }
 }
